@@ -12,9 +12,7 @@ This guidelines will provide the user with knowledge on:
 * 2) Performing statistical analyses (Student's t-test, Bonferroni correction, ...) to determine differentially expressed elements.
 * 3) Creating graphs for exploratory and inferences purposes (principal component analyses, heatmaps of differentially expressed elements, dendrograms, ...)
 
-This project is based on our proteomics analysis of non-chemotatics mutants, specfically mutants of CheA1 and CheA4 deletions,to infer the relationships of nitrogen and carbon metabolism to chemotaxis. 
-
-If interested, please refer to:
+This project is based on our proteomics analysis to infer the relationships of nitrogen and carbon metabolism to chemotaxis in *Azosprillum brasilense. If interested, please refer to:
 > (cite here)
 
 ## Prerequisite:
