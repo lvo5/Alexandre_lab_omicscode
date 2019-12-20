@@ -17,10 +17,7 @@ This project is based on our proteomics analysis to infer the relationships of n
 
 <p align="center"> 
 <img src="http://alexandrelab.utk.edu/images/Slide.jpg">
- Figure 1: Different morphologies of *Azosprillum brasilense* 
 </p>
-
-
 
 ## Prerequisite:
 This project assumes that the user is familiar with the Python's syntax. However, no prior coding experience is required to follow this guideline. 
