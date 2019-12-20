@@ -20,4 +20,9 @@ This project is based on our proteomics analysis to infer the relationships of n
 </p>
 
 ## Prerequisite:
-This project assumes that the user is familiar with the Python's syntax. However, no prior coding experience is required to follow this guideline. 
+This project assumes that the user is familiar with the Python's syntax. However, no prior coding experience is required to follow this guideline. Python 3 is required, and Jupyter Notebook is recommended. The instructions are listed with the following link:
+* https://realpython.com/installing-python/
+* https://jupyter.readthedocs.io/en/latest/install.html 
+
+
+
