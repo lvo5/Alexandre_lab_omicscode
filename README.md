@@ -15,8 +15,7 @@ This guidelines will provide the user with knowledge on:
 This project is based on our proteomics analysis to infer the relationships of nitrogen and carbon metabolism to chemotaxis in *Azosprillum brasilense*. If interested, please refer to:
 > (cite here)
 
-![myimage](http://alexandrelab.utk.edu/images/Slide.jpg)
-.caption[
+![myimage](http://alexandrelab.utk.edu/images/Slide.jpg).caption[
 **Fig. 1:** Image caption
 ]
 ## Prerequisite:
