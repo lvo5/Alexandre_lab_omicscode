@@ -1,2 +1,5 @@
-# Omics analysis toolbox for beginners
-## Correspondent: Dr. Alexandre's lab at the University of Tennessee at Knoxville
+# Omics analysis toolbox and guides for Python beginners
+## Correspondent:
+  ## Principal investigator: Gladys Alexandre - galexan2@utk.edu
+  ## Lab manager: Elena Ganusov - eganusov@utk.edu
+  ## Data analyst: Lam Vo - lvo5@vols.utk.edu (Personal: lamvo1998@gmail.com)
