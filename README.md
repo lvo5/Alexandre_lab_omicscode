@@ -17,7 +17,7 @@ This project is based on our proteomics analysis to infer the relationships of n
 
 <p align="center"> 
 <img src="http://alexandrelab.utk.edu/images/Slide.jpg">
-<figcaption>{{ include.description }}</figcaption>
+<figcaption>{{ 'hi' }}</figcaption>
 </p>
 
 ## Prerequisite:
