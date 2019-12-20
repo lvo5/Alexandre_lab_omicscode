@@ -15,7 +15,7 @@ This guidelines will provide the user with knowledge on:
 This project is based on our proteomics analysis to infer the relationships of nitrogen and carbon metabolism to chemotaxis in *Azosprillum brasilense*. If interested, please refer to:
 > (cite here)
 
-![Alt text](http://alexandrelab.utk.edu/images/Slide.jpg 'Morphologies of *Azosprillum brasilense* on agar plates (credit: Gladys Alexandre)')
-
+![](http://alexandrelab.utk.edu/images/Slide.jpg)
+.center[hi]
 ## Prerequisite:
 This project assumes that the user is familiar with the Python's syntax. However, no prior coding experience is required to follow this guideline. 
