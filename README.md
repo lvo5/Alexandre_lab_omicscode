@@ -25,12 +25,12 @@ This project assumes that the user is familiar with the Python's syntax. However
 * https://jupyter.readthedocs.io/en/latest/install.html 
 
 The following packages are required for this project:
-* pandas
-* numpy
-* math
-* matplotlib
-* seaborn
-* scipy
-* statsmodels
-* venn
-* sklearn
+* pandas (https://pandas.pydata.org/pandas-docs/stable/install.html)
+* numpy (https://docs.scipy.org/doc/numpy/user/quickstart.html)
+* math (https://docs.python.org/3/library/math.html)
+* matplotlib (https://matplotlib.org/)
+* seaborn (https://seaborn.pydata.org/)
+* scipy (https://pypi.org/project/scipy/)
+* statsmodels (https://www.statsmodels.org/stable/index.html)
+* venn (https://pypi.org/project/venn/)
+* sklearn (https://scikit-learn.org/stable/)
