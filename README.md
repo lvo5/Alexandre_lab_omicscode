@@ -1,4 +1,4 @@
-# Omics analysis toolbox for Python beginners
+# Omics analysis codes for Python beginners
 ## Correspondent:
   * Principal investigator: Gladys Alexandre - galexan2@utk.edu
   * Lab manager: Elena Ganusov - eganusov@utk.edu
