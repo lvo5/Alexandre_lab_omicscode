@@ -36,4 +36,4 @@ The following packages are required for this project:
 * sklearn (https://scikit-learn.org/stable/)
 
 ## Disclaimer
-**Omics analysis for beginners** is meant as open-source guidelines and examples of omnics analysis.***It is not a package or toolbox***. For any troubleshootings and/or suggestions, please contact Lam Vo. We always seek improvements on this project.  
+**Omics analysis for beginners** is meant as open-source guidelines and examples of omnics analysis. ***It is not a package or toolbox***. For any troubleshootings and/or suggestions, please contact Lam Vo. We always seek improvements on this project.  
