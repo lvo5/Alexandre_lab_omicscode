@@ -34,3 +34,6 @@ The following packages are required for this project:
 * statsmodels (https://www.statsmodels.org/stable/index.html)
 * venn (https://pypi.org/project/venn/)
 * sklearn (https://scikit-learn.org/stable/)
+
+## Disclaimer
+**Omics analysis for beginners** is meant as open-source guidelines and examples of omnics analyses, ***not a package or toolbox***. For any troubleshootings and/or suggestions, please contact Lam Vo. We always seek improvments on this project.  
