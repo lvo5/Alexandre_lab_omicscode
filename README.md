@@ -1,4 +1,4 @@
-# Omics analysis for beginners
+# Omics analysis for Dr. Gladys Alexandre's Lab
 ## Correspondent:
   * Principal investigator: Gladys Alexandre - galexan2@utk.edu
   * Lab manager: Elena Ganusov - eganusov@utk.edu
