@@ -13,7 +13,8 @@ This guidelines will provide the user with knowledge on:
 * 3) Creating graphs for exploratory and inferences purposes (principal component analyses, heatmaps of differentially expressed elements, dendrograms, ...)
 
 This project is based on our proteomics analysis to infer the relationships of nitrogen and carbon metabolism to chemotaxis in *Azosprillum brasilense*. If interested, please refer to:
-> Ganusova E., Vo. L, Abraham P., O'Neal L., Hettich R., Alexandre, G. (2021) "The Azospirillum brasilense Core Chemotaxis Proteins CheA1 and CheA4 Link Chemotaxis Signaling with Nitrogen Metabolism" Published in mSystems.
+> Ganusova EE, Vo LT, Abraham PE,O'Neal Yoder L, Hettich RL, Alexandre G. 2021.TheAzospirillum brasilensecore chemotaxisproteins CheA1 and CheA4 link chemotaxissignaling with nitrogen metabolism. mSystems6:e01354-20.https://doi.org/10.1128/mSystems.01354-20. 
+
 
 <p align="center"> 
 <img src="http://alexandrelab.utk.edu/images/Slide.jpg">
